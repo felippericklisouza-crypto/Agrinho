@@ -1,19 +1,23 @@
-    header{
-        background-color:#1CDA7E;
+    header {
+        background-color: #1CDA7E;
         color: rgb(9, 119, 214);
-max-width: 800px;
-margin: 0 auto;
+        max-width: 800px;
+        margin: 0 auto;
 
     }
 
 
-    main
-    {blackgroud-color:
-    
-    
-    
-    
-    text-aling: center;
-    max-width: 800px;
-margin: 0 auto;
+    main {
+        blackgroud-color: #508b6e;
+        text-align: center;
+        max-width: 800px;
+        margin: 0 auto;
+    }
+
+    footer{
+        blackgroud-color: #508b6e;
+        text-align: center;
+        max-width: 800px;
+        margin: 0 auto;
+
     }
